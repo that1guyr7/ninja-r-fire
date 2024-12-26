@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @🥷r ️‍🔥!
+- 👋 Hi, I’m rxh1m!
 - 👀 I’m interested in Gaming!
 - 🌱 I’m currently learning how to code on GitHub!
 - 💞️ I’m looking to collaborate with other people to help code.
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I have a cat named Bobby!
 
 <!---
-ninja-r-fire/ninja-r-fire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
