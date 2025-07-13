@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rxh1m!
+- 👋 Hi, I’m Rahim!
 - 👀 I’m interested in Gaming!
 - 🌱 I’m currently learning how to code on GitHub!
 - 💞️ I’m looking to collaborate with other people to help code.
